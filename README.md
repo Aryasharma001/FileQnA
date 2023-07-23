@@ -52,6 +52,8 @@
 </ul>
 <h2> Demo Video </h2>
 
+https://github.com/Aryasharma001/FileQnA/assets/98249716/9a7156f1-ee83-4e39-b63d-f1eca94f43cd
+
 
 <p>FileQna is built on the amazing work of the Langchain and Streamlit communities, and we are grateful for their open-source contributions.</p>
 
