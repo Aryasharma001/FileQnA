@@ -51,5 +51,4 @@ if uploaded_file:
 
     # Close the connection to the temporary SQLite database
     engine.dispose()
-
     
